@@ -25,8 +25,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         matrikelNummer = (EditText) findViewById(R.id.feld);
-        ersteAnwort = (TextView) findViewById(R.id.textView2);
-        zweiteAnwort = (TextView) findViewById(R.id.textView3Server);
+        ersteAnwort = (TextView) findViewById(R.id.textView1);
+        zweiteAnwort = (TextView) findViewById(R.id.textView2);
         }
 
     public void run(View v) {
