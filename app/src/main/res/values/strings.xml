@@ -4,4 +4,7 @@
     <string name="antwort_vom_server">Antwort vom Server</string>
     <string name="abschicken">ABSCHICKEN</string>
     <string name="matrikelnummer">Matrikelnummer</string>
+    <string name="textview">TextView</string>
+    <string name="berechnung">Berechnung</string>
+    <string name="textviewserver">TextViewServer</string>
 </resources>
